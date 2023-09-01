@@ -1,6 +1,6 @@
-# vanilla-addons-website
+# vlashikito-website
 
-This template should help get you started developing with Vue 3 in Vite.
+https://vlashikito.fr/
 
 ## Recommended IDE Setup
 
