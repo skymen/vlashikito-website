@@ -1,70 +1,70 @@
 @font-face {
   font-family: 'AbrilFatface';
   src: url('/fonts/AbrilFatface-Regular.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
 }
 
 @font-face {
   font-family: 'AmaticSC';
   src: url('/fonts/AmaticSC-Bold.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'AmaticSC';
   src: url('/fonts/AmaticSC-Regular.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
   font-weight: normal;
 }
 
 @font-face {
   font-family: 'Bungee';
   src: url('/fonts/Bungee-Regular.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
 }
 
 @font-face {
   font-family: 'CarterOne';
   src: url('/fonts/CarterOne-Regular.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
 }
 
 @font-face {
   font-family: 'LilitaOne';
   src: url('/fonts/LilitaOne-Regular.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
 }
 
 @font-face {
   font-family: 'Rowdies';
   src: url('/fonts/Rowdies-Regular.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
   font-weight: normal;
 }
 
 @font-face {
   font-family: 'Rowdies';
   src: url('/fonts/Rowdies-Light.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
   font-weight: light;
 }
 
 @font-face {
   font-family: 'Rowdies';
   src: url('/fonts/Rowdies-Bold.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
   font-weight: bold;
 }
 
 @font-face {
   font-family: 'RubikIso';
   src: url('/fonts/RubikIso-Regular.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
 }
 
 @font-face {
   font-family: 'UnicaOne';
   src: url('/fonts/UnicaOne-Regular.ttf') format('truetype');
-  font-display: swap;
+  font-display: block;
 }

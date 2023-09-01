@@ -52,7 +52,7 @@ img {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  max-width: 500px;
+  max-width: 800px;
   text-align: center;
 }
 
