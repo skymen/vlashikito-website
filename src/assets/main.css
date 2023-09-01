@@ -1,0 +1,106 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  padding-top: 0rem;
+
+  font-weight: normal;
+}
+
+@media screen and (max-width: 768px) {
+  #app {
+    padding: 1rem;
+    padding-top: 5rem;
+  }
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 2rem;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 1.7rem;
+  text-align: center;
+  margin-top: -3vw;
+  /* text-transform: uppercase; */
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-main);
+  transition: 0.4s;
+}
+
+/* AbrilFatface
+AmaticSC
+Bungee
+CarterOne
+LilitaOne
+Rowdies
+RubikIso
+UnicaOne */
+.title {
+  font-size: 10vw;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.title0 {
+  font-family: 'UnicaOne';
+}
+
+.title1 {
+  font-family: 'AbrilFatface';
+}
+
+.title2 {
+  font-family: 'AmaticSC';
+  font-weight: bold;
+}
+
+.title3 {
+  font-family: 'Bungee';
+}
+
+.title4 {
+  font-family: 'CarterOne';
+}
+
+/* .title5 {
+  font-family: 'RubikIso';
+  font-weight: bold;
+} */
+
+.title5 {
+  font-family: 'LilitaOne';
+}
+
+.title6 {
+  font-family: 'Rowdies';
+}
+
+.slide-y-enter-active,
+.slide-y-leave-active {
+  transition:
+    transform 0.3s ease,
+    opacity 0.3s ease;
+}
+.slide-y-enter-from,
+.slide-y-leave-to {
+  transform: translateY(15px);
+  opacity: 0;
+}
+.slide-y-enter-to,
+.slide-y-leave-from {
+  transform: translateY(0);
+  opacity: 1;
+}
