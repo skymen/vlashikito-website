@@ -31,7 +31,7 @@ function bounceAndSkip() {
   <div class="about">
     <h1>About Me</h1>
     <img
-      :src="`/about/avatar${vlashikitoFace}.png`"
+      :src="`/images/about/avatar${vlashikitoFace}.png`"
       alt="logo"
       class="bounce-and-skip"
       @click="bounceAndSkip"

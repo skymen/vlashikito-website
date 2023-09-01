@@ -4,16 +4,16 @@ import { ref } from 'vue'
 const comics = [
   {
     name: 'Magical Girl Riot',
-    thumbnail: '/comics/comic1.png',
+    thumbnail: '/images/comics/comic1.png',
     nameHover: 'Magical Girl Riot',
-    thumbnailHover: '/comics/comic1.png',
+    thumbnailHover: '/images/comics/comic1.png',
     link: 'https://www.webtoonfactory.com/fr/serie/magical-girl-riot/'
   },
   {
     name: 'Isabelle',
-    thumbnail: '/comics/comic2.png',
+    thumbnail: '/images/comics/comic2.png',
     nameHover: '- Oui ?',
-    thumbnailHover: '/comics/comic2hover.png',
+    thumbnailHover: '/images/comics/comic2hover.png',
     link: 'https://www.webtoons.com/fr/canvas/isabelle/list?title_no=686563'
   }
 ]

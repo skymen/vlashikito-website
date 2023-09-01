@@ -15,7 +15,7 @@ const hover = ref(false)
       <img
         @mouseenter="hover = true"
         @mouseleave="hover = false"
-        :src="hover ? '/commissions/buy.jpg' : '/commissions/kofi.png'"
+        :src="hover ? '/images/commissions/buy.jpg' : '/images/commissions/kofi.png'"
         alt="I'm not sorry"
       />
     </a>

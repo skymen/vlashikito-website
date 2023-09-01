@@ -73,7 +73,7 @@ const buttons = [
         <router-link to="/">VLASHIKITO</router-link>
       </h1>
       <div v-else class="avatar">
-        <img :src="'/about/avatar' + vlashikitoFace + '.png'" alt="logo" />
+        <img :src="'/images/about/avatar' + vlashikitoFace + '.png'" alt="logo" />
       </div>
     </div>
     <h2>Manga x Webtoon creator</h2>
